@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#canvas {
+    background-color: rgb(111, 111, 111);
+}
+
+#legend {
+    background-color: rgb(169, 112, 112);
+}
+
+#tooltip{
+    visibility: hidden;
+    width: auto;
+    height: auto;
+}
